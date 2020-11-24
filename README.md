@@ -1,7 +1,6 @@
 Make sure python is added to path.
 
-
-python --version Install virtualenv using pip.
+Install virtualenv using pip.
 ```
  pip install virtualenv 
  ```
